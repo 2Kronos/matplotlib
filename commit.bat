@@ -1,6 +1,6 @@
 @echo off
 :: Navigate to the project directory
-cd /d "C:\Users\n1cit\OneDrive - Cape Peninsula University of Technology\Documents\YEAR 2\SIGNAL PROCESSING\Matplotlib\pythonProject"
+cd /d "C:\Users\n1cit\OneDrive - Cape Peninsula University of Technology\Documents\YEAR 2\SIGNAL PROCESSING\Matplotlib"
 if %ERRORLEVEL% neq 0 (
     echo Failed to navigate to the project directory.
     exit /b %ERRORLEVEL%
